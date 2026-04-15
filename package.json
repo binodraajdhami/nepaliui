@@ -1,6 +1,6 @@
 {
     "name": "nepaliui",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "A daisyUI-inspired Tailwind CSS plugin crafted in Nepal",
     "main": "src/index.js",
     "type": "commonjs",
