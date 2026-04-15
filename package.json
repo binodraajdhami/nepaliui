@@ -17,7 +17,7 @@
     "homepage": "https://www.npmjs.com/package/nepaliui",
     "repository": {
         "type": "git",
-        "url": "https://github.com/binodrajdhami/nepaliui"
+        "url": "https://github.com/binodraajdhami/nepaliui"
     },
     "peerDependencies": {
         "tailwindcss": "^3.0.0 || ^4.0.0"
