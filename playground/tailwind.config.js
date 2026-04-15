@@ -1,7 +1,4 @@
 module.exports = {
-    content: ["./index.html", "./*.js"],
-    theme: {
-        extend: {},
-    },
-    plugins: [require("../src/index.js")],
+    content: ["./src/**/*.{html,js,jsx,ts,tsx}"],
+    plugins: [require("nepaliui")],
 }
